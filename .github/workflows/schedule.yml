@@ -16,9 +16,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
         with:
-          VELOG_ID: "kyechan99"
-          GITHUB_ID: "kyechan99"
-          GITHUB_EMAIL: "kyechan99@gmail.com"
+          VELOG_ID: "anjiyuny"
+          GITHUB_ID: "anjiyuny"
+          GITHUB_EMAIL: "jiyoonan98@gmail.com"
           README_PATH: "README.md"
           COMMIT_MSG: "Update Acitivty README"
           LIMIT: 5
